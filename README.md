@@ -1,4 +1,4 @@
-# QuantumLabControl
+# QuantumLabControl (...under developement)
 
 QuantumLabControl is a Python-based software suite for controlling and automating quantum physics experiments. It supports various hardware devices and provides a user-friendly interface for experiment management.
 
@@ -32,7 +32,7 @@ By following these steps, you will have a conda environment set up for your quan
 
 
 ## Directory Structure
-
+'''
 QuantumLabControl/
 ├── README.md
 ├── LICENSE
